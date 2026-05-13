@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Owner Demo",
+        "username": "owner",
+        "password": "owner123",
+        "role": "owner"
+    },
+    {
+        "id": 2,
+        "name": "Employee Demo",
+        "username": "employee",
+        "password": "employee123",
+        "role": "employee"
+    },
+    {
+        "id": 3,
+        "name": "Maya Owner",
+        "username": "maya",
+        "password": "maya123",
+        "role": "owner"
+    },
+    {
+        "id": 4,
+        "name": "Jordan Employee",
+        "username": "jordan",
+        "password": "jordan123",
+        "role": "employee"
+    },
+    {
+        "id": 5,
+        "name": "Connor",
+        "username": "connor",
+        "password": "connor123",
+        "role": "employee"
+    }
+]

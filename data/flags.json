@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "item_id": 3,
+    "item_name": "Drill Bits Pack",
+    "flagged_by": "employee",
+    "reason": "Drill Bits Pack currently has 4 unit(s) in stock. The low-stock threshold is 5. Issue type(s): Low stock. This item is at or below the low-stock threshold and should be reviewed.",
+    "urgency": "Medium",
+    "status": "open",
+    "created_at": "2026-05-03 09:20:00"
+  },
+  {
+    "id": 2,
+    "item_id": 8,
+    "item_name": "Safety Goggles",
+    "flagged_by": "jordan",
+    "reason": "Safety Goggles currently has 0 unit(s) in stock. The low-stock threshold is 8. Issue type(s): Out of stock. This item is out of stock and should be restocked as soon as possible.",
+    "urgency": "High",
+    "status": "open",
+    "created_at": "2026-05-04 11:05:00"
+  },
+  {
+    "id": 3,
+    "item_id": 9,
+    "item_name": "N95 Dust Masks",
+    "flagged_by": "employee",
+    "reason": "N95 Dust Masks currently has 1 unit(s) in stock. The low-stock threshold is 10. Issue type(s): Low stock, Customer requested item. Customers have asked for this item multiple times this week.",
+    "urgency": "High",
+    "status": "open",
+    "created_at": "2026-05-05 14:30:00"
+  },
+  {
+    "id": 4,
+    "item_id": 14,
+    "item_name": "Painter's Tape",
+    "flagged_by": "jordan",
+    "reason": "Painter's Tape currently has 5 unit(s) in stock. The low-stock threshold is 10. Issue type(s): Low stock. This item sells quickly during painting projects and should be restocked soon.",
+    "urgency": "Medium",
+    "status": "open",
+    "created_at": "2026-05-06 12:10:00"
+  },
+  {
+    "id": 5,
+    "item_id": 11,
+    "item_name": "Wall Anchors 50ct",
+    "flagged_by": "employee",
+    "reason": "Wall Anchors 50ct currently has 0 unit(s) in stock. The low-stock threshold is 10. Issue type(s): Out of stock. Customers may need this item with screw purchases.",
+    "urgency": "High",
+    "status": "resolved",
+    "created_at": "2026-05-07 09:55:00",
+    "resolved_by": "owner",
+    "resolved_at": "2026-05-07 11:20:00",
+    "resolution_note": "Reviewed the stock count and added wall anchors to the next restock order."
+  },
+  {
+    "id": 6,
+    "item_id": 18,
+    "item_name": "Outlet Tester",
+    "flagged_by": "jordan",
+    "reason": "Outlet Tester currently has 2 unit(s) in stock. The low-stock threshold is 4. Issue type(s): Low stock, Needs manager review.",
+    "urgency": "Medium",
+    "status": "resolved",
+    "created_at": "2026-05-08 16:45:00",
+    "resolved_by": "maya",
+    "resolved_at": "2026-05-08 17:10:00",
+    "resolution_note": "Checked the item and confirmed the next shipment includes outlet testers."
+  }
+]

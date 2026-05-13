@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Hammer",
+                "quantity": 2,
+                "unit_price": 12.99,
+                "line_total": 25.98
+            },
+            {
+                "item_id": 10,
+                "name": "Wood Screws 100ct",
+                "quantity": 3,
+                "unit_price": 6.49,
+                "line_total": 19.47
+            }
+        ],
+        "total": 45.45,
+        "sold_by": "employee",
+        "created_at": "2026-05-01 10:30:00"
+    },
+    {
+        "id": 2,
+        "items": [
+            {
+                "item_id": 3,
+                "name": "Drill Bits Pack",
+                "quantity": 1,
+                "unit_price": 9.99,
+                "line_total": 9.99
+            },
+            {
+                "item_id": 4,
+                "name": "Work Gloves",
+                "quantity": 2,
+                "unit_price": 7.49,
+                "line_total": 14.98
+            }
+        ],
+        "total": 24.97,
+        "sold_by": "employee",
+        "created_at": "2026-05-02 14:15:00"
+    },
+    {
+        "id": 3,
+        "items": [
+            {
+                "item_id": 9,
+                "name": "N95 Dust Masks",
+                "quantity": 4,
+                "unit_price": 14.99,
+                "line_total": 59.96
+            },
+            {
+                "item_id": 8,
+                "name": "Safety Goggles",
+                "quantity": 2,
+                "unit_price": 8.99,
+                "line_total": 17.98
+            }
+        ],
+        "total": 77.94,
+        "sold_by": "jordan",
+        "created_at": "2026-05-03 09:45:00"
+    },
+    {
+        "id": 4,
+        "items": [
+            {
+                "item_id": 6,
+                "name": "Cordless Drill",
+                "quantity": 1,
+                "unit_price": 79.99,
+                "line_total": 79.99
+            },
+            {
+                "item_id": 7,
+                "name": "Circular Saw",
+                "quantity": 1,
+                "unit_price": 119.99,
+                "line_total": 119.99
+            }
+        ],
+        "total": 199.98,
+        "sold_by": "employee",
+        "created_at": "2026-05-04 11:20:00"
+    },
+    {
+        "id": 5,
+        "items": [
+            {
+                "item_id": 14,
+                "name": "Painter's Tape",
+                "quantity": 5,
+                "unit_price": 4.99,
+                "line_total": 24.95
+            },
+            {
+                "item_id": 13,
+                "name": "Paint Roller Kit",
+                "quantity": 2,
+                "unit_price": 13.99,
+                "line_total": 27.98
+            },
+            {
+                "item_id": 15,
+                "name": "Paint Brush Set",
+                "quantity": 1,
+                "unit_price": 9.49,
+                "line_total": 9.49
+            }
+        ],
+        "total": 62.42,
+        "sold_by": "jordan",
+        "created_at": "2026-05-05 13:05:00"
+    },
+    {
+        "id": 6,
+        "items": [
+            {
+                "item_id": 19,
+                "name": "Shop Towels",
+                "quantity": 6,
+                "unit_price": 12.49,
+                "line_total": 74.94
+            },
+            {
+                "item_id": 20,
+                "name": "Heavy-Duty Cleaner",
+                "quantity": 2,
+                "unit_price": 8.49,
+                "line_total": 16.98
+            }
+        ],
+        "total": 91.92,
+        "sold_by": "employee",
+        "created_at": "2026-05-06 15:40:00"
+    },
+    {
+        "id": 7,
+        "items": [
+            {
+                "item_id": 17,
+                "name": "Extension Cord 25ft",
+                "quantity": 2,
+                "unit_price": 19.99,
+                "line_total": 39.98
+            },
+            {
+                "item_id": 16,
+                "name": "LED Work Light",
+                "quantity": 1,
+                "unit_price": 24.99,
+                "line_total": 24.99
+            }
+        ],
+        "total": 64.97,
+        "sold_by": "jordan",
+        "created_at": "2026-05-07 12:25:00"
+    },
+    {
+        "id": 8,
+        "items": [
+            {
+                "item_id": 5,
+                "name": "Tape Measure",
+                "quantity": 2,
+                "unit_price": 11.25,
+                "line_total": 22.5
+            },
+            {
+                "item_id": 12,
+                "name": "Utility Knife",
+                "quantity": 3,
+                "unit_price": 6.99,
+                "line_total": 20.97
+            }
+        ],
+        "total": 43.47,
+        "sold_by": "employee",
+        "created_at": "2026-05-08 16:10:00"
+    },
+    {
+        "id": 9,
+        "items": [
+            {
+                "item_id": 2,
+                "name": "Screwdriver Set",
+                "quantity": 2,
+                "unit_price": 18.5,
+                "line_total": 37.0
+            },
+            {
+                "item_id": 18,
+                "name": "Outlet Tester",
+                "quantity": 1,
+                "unit_price": 10.99,
+                "line_total": 10.99
+            }
+        ],
+        "total": 47.99,
+        "sold_by": "jordan",
+        "created_at": "2026-05-09 10:50:00"
+    },
+    {
+        "id": 10,
+        "items": [
+            {
+                "item_id": 10,
+                "name": "Wood Screws 100ct",
+                "quantity": 5,
+                "unit_price": 6.49,
+                "line_total": 32.45
+            },
+            {
+                "item_id": 11,
+                "name": "Wall Anchors 50ct",
+                "quantity": 2,
+                "unit_price": 5.99,
+                "line_total": 11.98
+            }
+        ],
+        "total": 44.43,
+        "sold_by": "employee",
+        "created_at": "2026-05-10 17:35:00"
+    },
+    {
+        "id": 11,
+        "items": [
+            {
+                "item_id": 3,
+                "name": "Drill Bits Pack",
+                "quantity": 2,
+                "unit_price": 9.99,
+                "line_total": 19.98
+            },
+            {
+                "item_id": 7,
+                "name": "Circular Saw",
+                "quantity": 1,
+                "unit_price": 119.99,
+                "line_total": 119.99
+            },
+            {
+                "item_id": 4,
+                "name": "Work Gloves",
+                "quantity": 2,
+                "unit_price": 7.49,
+                "line_total": 14.98
+            }
+        ],
+        "total": 154.95,
+        "sold_by": "employee",
+        "created_at": "2026-05-12 20:19:39"
+    },
+    {
+        "id": 12,
+        "items": [
+            {
+                "item_id": 1,
+                "name": "Hammer",
+                "quantity": 1,
+                "unit_price": 12.99,
+                "line_total": 12.99
+            },
+            {
+                "item_id": 2,
+                "name": "Screwdriver Set",
+                "quantity": 1,
+                "unit_price": 18.5,
+                "line_total": 18.5
+            },
+            {
+                "item_id": 3,
+                "name": "Drill Bits Pack",
+                "quantity": 2,
+                "unit_price": 9.99,
+                "line_total": 19.98
+            }
+        ],
+        "total": 51.47,
+        "sold_by": "employee",
+        "created_at": "2026-05-13 09:10:34"
+    }
+]
